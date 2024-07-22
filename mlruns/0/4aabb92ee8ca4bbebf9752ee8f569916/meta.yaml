@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/Desktop/data%20science/MLFLOW/mlruns/0/4aabb92ee8ca4bbebf9752ee8f569916/artifacts
+end_time: 1721630465138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4aabb92ee8ca4bbebf9752ee8f569916
+run_name: chill-dolphin-773
+run_uuid: 4aabb92ee8ca4bbebf9752ee8f569916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721630459893
+status: 3
+tags: []
+user_id: LENOVO
